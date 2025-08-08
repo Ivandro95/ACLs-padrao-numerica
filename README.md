@@ -44,6 +44,9 @@ Ivo dos Santos Correia Certificações: CCNA 1, CCNA 2, CCNA 3, Google IT Suppor
 
 🖼️ Imagens (Opcional)
 
-![ACL_padrao_e_extendida](teste_de_pings_nos_dispositivos_finais.jpg)
+![ACL_padrao_e_extendida](https://github.com/Ivandro95/ACLs-padrao-numerica/blob/main/ACL_padrao_e_extendida.png)
 
+![ACL Padrão vs Estendida](https://imgur.com/a/YwD9tHb)
+<img src="https://imgur.com/QGza0LB"/>
 
+<img width="1536" height="1024" alt="ACL_padrao_e_extendida" src="https://github.com/user-attachments/assets/eb51737c-29eb-4c3d-9766-4b80f37043be" />
