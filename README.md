@@ -44,5 +44,6 @@ Ivo dos Santos Correia Certificações: CCNA 1, CCNA 2, CCNA 3, Google IT Suppor
 
 🖼️ Imagens (Opcional)
 
+![ACL_padrao_e_extendida](teste_de_pings_nos_dispositivos_finais.jpg)
 
 
